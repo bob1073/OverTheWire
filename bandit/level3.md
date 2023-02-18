@@ -9,8 +9,8 @@ spaces in this filename
 Trying **cat spaces in this filename** is not working, as linux thinks we are trying to read a file 4 different files, due to space caracter: 
 
 ```console
-bandit2@bandit:~$ cat space in this filename
-cat: space: No such file or directory
+bandit2@bandit:~$ cat spaces in this filename
+cat: spaces: No such file or directory
 cat: in: No such file or directory
 cat: this: No such file or directory
 cat: filename: No such file or directory
