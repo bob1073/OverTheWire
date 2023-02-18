@@ -1,4 +1,4 @@
-# Level 1
+# Level 0 -> Level 1
 Once we are inside level 0, we can use **ls** to list files in current directory. 
 ```console
 bandit0@bandit:~$ ls
