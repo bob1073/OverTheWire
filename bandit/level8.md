@@ -1,4 +1,4 @@
-# Level 8 -> Level 9
+# Level 7 -> Level 8
 
 If we **cat data.txt**, it contains a lot of lines. We need to find the line which contains the word *millionth*. The **grep** command will do for us.
 The syntax is simple, we first specify the keyword and then the file.
